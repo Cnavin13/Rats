@@ -1,0 +1,20 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+Cd is to move directories 
+Ls in to look at the content within a directory
+Rm is to delete a file 
+Ssh is to clear your screen 
+user@machine is to access another computer 
+
+2. Do you have pets? What kind?
+Yes! I have 2 little white dogs although they never seem to stay white, a little kitty that is nothing but trouble, a tortoise, and a bearded dragon. 
+
+3. If you run across an error, what would your first course of action be?
+Cry because the red error scares me, then try to google a solution and cry again when that doesn't work. 
+
+4. Funniest thing that happened to you in high school.
+Probably a lot it was a long time ago so instead will you settle for some funny meme compilations? 
+https://www.google.com/search?client=safari&rls=en&q=funny+meme+compilation&ie=UTF-8&oe=UTF-8#
+
+5. What is a python script? (Keep it simple)
+A python script is the actual code itself? That's usually saved with .py instead of .pdf or .jpeg... I think.
+
