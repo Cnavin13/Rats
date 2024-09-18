@@ -4,6 +4,7 @@ Ls in to look at the content within a directory
 Rm is to delete a file 
 Ssh is to clear your screen 
 user@machine is to access another computer 
+The language my computer terminal uses is bash
 
 2. Do you have pets? What kind?
 Yes! I have 2 little white dogs although they never seem to stay white, a little kitty that is nothing but trouble, a tortoise, and a bearded dragon. 
